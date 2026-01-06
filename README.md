@@ -137,6 +137,12 @@ graph TB
     style AE fill:#00BCD4,stroke:#00838F,stroke-width:2px,color:#fff
     style AG fill:#9C27B0,stroke:#6A1B9A,stroke-width:2px,color:#fff
 ```
+### For The Advance Alagortihms you can sheck the links :   
+* $${\color{lightgreen}Hand \space Landmark \space and  \space Pose \space Estimation :} $$    https://mediatum.ub.tum.de/doc/1658161/cyze4r5r5ptb06q0cb6rdi24h.pdf
+*  $${\color{lightgreen}EAR \space MAR \space (Facial  \space Feature \space Geometry :} $$  https://www.emergentmind.com/topics/mouth-aspect-ratio-mar
+*  $${\color{lightgreen}Sliding \space Window \space (Temporal  \space Analysis)\space  :} $$  https://www.geeksforgeeks.org/dsa/window-sliding-technique/
+
+  
 ![zazu-soldier-cat-two-thousand-yard-stare-meme-restoration-v0-elx0vyxdhgpd1](https://github.com/user-attachments/assets/e35f436a-bb5b-4a57-9576-f7863633e1e7)
 
 
