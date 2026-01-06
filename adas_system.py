@@ -67,11 +67,11 @@ while cap.isOpened():
             yawn_timestamps = [t for t in yawn_timestamps if current_time - t <= 60]
 
             if ear < 0.20: 
-                cv2.putText(img, "!!! SLEEP ALERT !!!", (iw//2-150, ih//2), 2, 1.2, (0,0,255), 3)
+                cv2.putText(img, "!!! SLEEP ALERT TGA3AD A RAGRAGI !!!", (iw//2-150, ih//2), 2, 1.2, (0,0,255), 3)
                 cv2.rectangle(img, (0,0), (iw,ih), (0,0,255), 10)
             
             if head_pitch < 0.12: 
-                cv2.putText(img, "HEAD DOWN!", (iw//2-100, ih//2+50), 2, 1, (0,165,255), 2)
+                cv2.putText(img, "HEAD DOWN! KHALI RASSK MARFO3 LINA LAH", (iw//2-100, ih//2+50), 2, 1, (0,165,255), 2)
 
             if len(yawn_timestamps) >= 5: 
                 cv2.putText(img, "CRITICAL FATIGUE", (iw//2-150, ih-100), 2, 1, (0,165,255), 2)
